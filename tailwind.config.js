@@ -7,6 +7,9 @@ module.exports = {
       colors: {
         primary: '#ff631b',
         secondary: '#002156',
+      },
+      width: {
+        container: '1200px'
       }
     },
   },
